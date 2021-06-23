@@ -1,0 +1,1 @@
+CREAR APP REACT docker-compose run --rm app npx create-react-app netflix --use-npm INSTALAR PAQUETES docker-compose run --rm app npm install --save redux --use-npm LEVANTAR APP REACT docker-compose up -d
